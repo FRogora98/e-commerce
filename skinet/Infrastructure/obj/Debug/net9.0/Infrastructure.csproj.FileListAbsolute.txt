@@ -13,3 +13,4 @@ C:\Users\frogora\e-commerce\skinet\Infrastructure\obj\Debug\net9.0\Infrastructur
 C:\Users\frogora\e-commerce\skinet\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\frogora\e-commerce\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\frogora\e-commerce\skinet\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\frogora\e-commerce\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
